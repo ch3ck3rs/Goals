@@ -27,4 +27,5 @@ The basics of git are: pull > add > commit > push
 You can create a new branch of the project, play around with it, pull in updates from the master branch, make commits 
 and push to the repo without affecting the main program (like a sandbox).  When you get the new feature working on your 
 branch, it can then be merged back into the master.
-   
+
+#### Git Pages
