@@ -1,3 +1,8 @@
+---
+title: Python Lib
+nav_order:2
+---
+
 # Broader understanding of the Python Library
 
 ----------
