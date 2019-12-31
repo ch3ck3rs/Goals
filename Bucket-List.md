@@ -24,3 +24,9 @@ Goals I would like to achieve but are not yet high priority
 
 
 ## Refreshers and How Tos I want to create ##
+
+
+
+[Back to Goals](https://ch3ck3rs.github.io/Goals)
+
+[edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/Bucket-List.md)

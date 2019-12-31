@@ -38,3 +38,5 @@ Why:
 - [ ] Appendix B
 
 [Back to Goals](https://ch3ck3rs.github.io/Goals)
+
+[edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/2020Goals/Professional/Basic-Debian.md)

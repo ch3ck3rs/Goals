@@ -32,3 +32,6 @@ Progress:
 Task * Purpose * Example of Use * Outcome
 
 [Back to Goals](https://ch3ck3rs.github.io/Goals)
+
+
+[edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/2020Goals/Personal/Daylio.md)

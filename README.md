@@ -47,4 +47,10 @@ Goal Tracker for Professional and Personal Growth Goals
 
 
 ---
+
+[**How to use Goals Site**](https://ch3ck3rs.github.io/Goals/How-to-use-Goals.html)
+
+
 [**Bucket List**](https://ch3ck3rs.github.io/Goals/Bucket-List.html)
+
+[edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/README.md)

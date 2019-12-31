@@ -32,3 +32,6 @@ branch, it can then be merged back into the master.
 
 
 [Home Page](https://ch3ck3rs.github.io/Goals)
+
+
+[edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/2020Goals/Professional/Using-Git.md)

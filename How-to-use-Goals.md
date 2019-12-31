@@ -62,3 +62,8 @@ to push changes to github.com
 Native Markdown editor that will be used to update wiki and goals off line. 
 
 PyCharm can also be used for this if desired. 
+
+
+[Back to Goals](https://ch3ck3rs.github.io/Goals)
+
+[edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/How-to-use-Goals.md)
