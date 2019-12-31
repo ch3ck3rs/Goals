@@ -24,7 +24,7 @@ Progress:
 
 ##### Monthly Focus:
 
-* January
+* January - Django 
 * February
 * March
 * April
@@ -37,11 +37,31 @@ Progress:
 * November
 * December
 
+[Back to Goals](https://ch3ck3rs.github.io/Goals)
+
 ---
 
 ## Outcome 
 
-Library * Purpose * Example of Use * Outcome
+Library * Purpose * Method * Example of Use * Outcome
 
+
+
+**January**
+
+- Library: Django a web framework
+- Purpose: to create and host a personal website
+- Method: Udemy course
+- Example of Use:
+- Outcome: 
+
+
+**Month**
+
+- Library: 
+- Purpose: 
+- Method: 
+- Example of Use:
+- Outcome: 
 
 [Back to Goals](https://ch3ck3rs.github.io/Goals)

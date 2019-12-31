@@ -1,9 +1,7 @@
-# Goals
+# 2020 Goals
 Goal Tracker for Professional and Personal Growth Goals
 
-## 2020 Goals
-
-### In My Profession ###
+## In My Profession ##
 
 **Work**
 
@@ -17,7 +15,7 @@ Goal Tracker for Professional and Personal Growth Goals
 - Maintain A average in MS Courses
 
 
-### In Private ###
+## In Private ##
 
 **Coding**
 
@@ -33,8 +31,10 @@ Goal Tracker for Professional and Personal Growth Goals
 **Personal**
 
 - use [Daylio](https://ch3ck3rs.github.io/Goals/2020Goals/Personal/Daylio.html) every day
+- merge all passwords into keepass
 
-### Refreshers and How Tos ###
+
+## Refreshers and How Tos ##
 
 **GIT** 
 
@@ -45,3 +45,6 @@ Goal Tracker for Professional and Personal Growth Goals
 
 - [Markdown Quick Reference](https://gist.github.com/roachhd/779fa77e9b90fe945b0c)
 
+
+---
+[**Bucket List**](https://ch3ck3rs.github.io/Goals/Bucket-List.html)

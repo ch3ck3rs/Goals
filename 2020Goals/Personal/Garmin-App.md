@@ -23,9 +23,9 @@ Progress:
 
 ##### Monthly Focus:
 
-* January - none, focus on Debian and Git
-* February
-* March
+* January - does the app exist already?
+* February - none, focus on school
+* March - review MonkeyC
 * April
 * May
 * June
