@@ -1,3 +1,6 @@
+# Are you on the MASTER branch!?!?!?
+Any changes you make to Master will not show up on the Pages site.
+
 # Goals
 Goal Tracker for Professional and Personal Growth Goals
 
