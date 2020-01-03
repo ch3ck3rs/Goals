@@ -64,4 +64,8 @@ to push changes to github.com
 
 Native Markdown editor that will be used to update wiki and goals off line. 
 
+<<<<<<< HEAD
 PyCharm can also be used for this if desired. 
+=======
+PyCharm can also be used for this if desired. 
+>>>>>>> d6aeb8067d3c6728e484d461dfdecf3f56b3bbc9
