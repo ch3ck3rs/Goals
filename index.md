@@ -5,6 +5,10 @@ Goal Tracker for Professional and Personal Growth Goals
 
 **Work**
 
+- Complete [standardization](https://ch3ck3rs.github.io/Goals/2020Goals/Professional/PTS-Product_line.html) of the PTS product offering
+
+**Career**
+
  - Increase [Python Library Knowledge](https://ch3ck3rs.github.io/Goals/2020Goals/Professional/Python-Library.html)
 - Stay abreast of [Industry Trends](https://ch3ck3rs.github.io/Goals/2020Goals/Professional/Industry-Awareness.html)
 - CODE development with Katie 
@@ -21,6 +25,7 @@ Goal Tracker for Professional and Personal Growth Goals
 
 - Develop [caffeine tracker](https://ch3ck3rs.github.io/Goals/2020Goals/Personal/Garmin-App.html) app for Garmin watch
 - [PyCon 2020](https://ch3ck3rs.github.io/Goals/2020Goals/Personal/PyCon-2020.html) with Katie
+- Learn how to [Test code](https://ch3ck3rs.github.io/Goals/2020Goals/Personal/Code-Test.html)
 
 **Crafting**
 
