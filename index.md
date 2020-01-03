@@ -5,13 +5,10 @@ Goal Tracker for Professional and Personal Growth Goals
 
 **Work**
 
-<<<<<<< HEAD
-=======
 - Complete [standardization](https://ch3ck3rs.github.io/Goals/2020Goals/Professional/PTS-Product_line.html) of the PTS product offering
 
 **Career**
 
->>>>>>> master
  - Increase [Python Library Knowledge](https://ch3ck3rs.github.io/Goals/2020Goals/Professional/Python-Library.html)
 - Stay abreast of [Industry Trends](https://ch3ck3rs.github.io/Goals/2020Goals/Professional/Industry-Awareness.html)
 - CODE development with Katie 
@@ -28,16 +25,13 @@ Goal Tracker for Professional and Personal Growth Goals
 
 - Develop [caffeine tracker](https://ch3ck3rs.github.io/Goals/2020Goals/Personal/Garmin-App.html) app for Garmin watch
 - [PyCon 2020](https://ch3ck3rs.github.io/Goals/2020Goals/Personal/PyCon-2020.html) with Katie
-<<<<<<< HEAD
-=======
 - Learn how to [Test code](https://ch3ck3rs.github.io/Goals/2020Goals/Personal/Code-Test.html)
->>>>>>> master
 
 **Crafting**
 
 - [ ] Embroidery work for Angela
 - [ ] 2 Hats for PyCon
-- [ ] Hat for Dad
+- [ ] Hat for Dad (36 st each needle)
 
 **Personal**
 
