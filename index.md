@@ -37,6 +37,18 @@ Goal Tracker for Professional and Personal Growth Goals
 
 - use [Daylio](https://ch3ck3rs.github.io/Goals/2020Goals/Personal/Daylio.html) every day
 - merge all passwords into keepass
+- merge all online storage 
+	- dropbox
+	- onedrive
+	- google drive
+- merge all physical storage and make back up
+	- 250 GB drive
+	- 1 TB drive (old)
+	- 1 TB drive (new)
+	- multiple USB sticks
+- **Pick an Environment** for online storage, notes and tasks
+	- Microsoft
+	- Google
 
 
 ## Refreshers and How Tos ##

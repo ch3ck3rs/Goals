@@ -14,6 +14,7 @@ Goals I would like to achieve but are not yet high priority
 **Coding**
 
 - singing twiter bot
+- what are docker and containers
 
 **Crafting**
 
