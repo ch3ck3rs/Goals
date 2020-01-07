@@ -10,6 +10,15 @@ Why:
 *  to help track caffeine intake over time 
 *  maybe see cycles in mood (link with Dailyo ? )
 
+
+What:
+
+* caffine logger
+* water logger, similar to WaterLogger currently in the store
+	* add reminders to drink water
+	* connect to Hydration in app
+	
+	
 Progress:
 
 * 
@@ -41,6 +50,11 @@ Progress:
 ## Outcome 
 
 Task * Purpose * Example of Use * Outcome
+
+**January**
+
+- app does not exist
+- closest app is a water logger, but does not connect with connect water logger
 
 [Back to Goals](https://ch3ck3rs.github.io/Goals)
 
