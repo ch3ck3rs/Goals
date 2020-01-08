@@ -68,3 +68,8 @@ Library * Purpose * Method * Example of Use * Outcome
 
 
 [edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/2020Goals/Professional/Python-Library.md)
+
+## Libraries to consider ##
+
+- kivy (python GUI)
+
