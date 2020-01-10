@@ -24,13 +24,18 @@ Progress:
 
 ##### Monthly Focus:
 
-* 
+* January - Finish USP and LI
 
 ---
 
 ## Outcome 
 
 Task * Purpose * Example of Use * Outcome
+
+**January**
+
+- by 1/16 we are to have the entire USP line green
+- by EOM we will have USP and LI Filter's green
 
 [Back to Goals](https://ch3ck3rs.github.io/Goals)
 

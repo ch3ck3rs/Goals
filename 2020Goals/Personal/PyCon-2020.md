@@ -35,6 +35,10 @@ Progress:
 
 Task * Purpose * Example of Use * Outcome
 
+**January**
+
+- **1/9** - reserved hotel
+
 [Back to Goals](https://ch3ck3rs.github.io/Goals)
 
 

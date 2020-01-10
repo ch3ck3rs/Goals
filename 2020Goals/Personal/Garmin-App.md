@@ -21,7 +21,7 @@ What:
 	
 Progress:
 
-* 
+*  
 
 ----------
 
@@ -55,6 +55,7 @@ Task * Purpose * Example of Use * Outcome
 
 - app does not exist
 - closest app is a water logger, but does not connect with connect water logger
+- **Garmin SDK** - Watched Intro Video - sdk has plugin for eclipse IDE which includes templates and emulators
 
 [Back to Goals](https://ch3ck3rs.github.io/Goals)
 
