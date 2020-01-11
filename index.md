@@ -11,7 +11,7 @@ Goal Tracker for Professional and Personal Growth Goals
 
  - Increase [Python Library Knowledge](https://ch3ck3rs.github.io/Goals/2020Goals/Professional/Python-Library.html)
 - Stay abreast of [Industry Trends](https://ch3ck3rs.github.io/Goals/2020Goals/Professional/Industry-Awareness.html)
-- CODE development with Katie 
+- CODE development with Katie
 
 **Home**
 
@@ -37,7 +37,7 @@ Goal Tracker for Professional and Personal Growth Goals
 
 - use [Daylio](https://ch3ck3rs.github.io/Goals/2020Goals/Personal/Daylio.html) every day
 - merge all passwords into keepass
-- merge all online storage 
+- merge all online storage
 	- dropbox
 	- onedrive
 	- google drive
@@ -51,9 +51,11 @@ Goal Tracker for Professional and Personal Growth Goals
 	- Google
 
 
+**[Daily Log](https://ch3ck3rs.github.io/Goals/Weekly-Log/log-home.html)
+
 ## Refreshers and How Tos ##
 
-**GIT** 
+**GIT**
 
 - [Using Git](https://ch3ck3rs.github.io/Goals/2020Goals/Professional/Using-Git.html)
 - [git website](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
