@@ -5,3 +5,9 @@ This is a weekly log.  It will not contain great detail or minutia.  The purpose
 ## Logs
 
 [Week 1 (1/6/20 - 1/12/20)](https://ch3ck3rs.github.io/Goals/Weekly-Log/2020/01.html)
+
+[Week 2 (1/13/20 - 1/19/20)](https://ch3ck3rs.github.io/Goals/Weekly-Log/2020/02.html)
+
+
+
+[Home Page](https://ch3ck3rs.github.io/Goals)

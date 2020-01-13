@@ -46,12 +46,12 @@ Goal Tracker for Professional and Personal Growth Goals
 	- 1 TB drive (old)
 	- 1 TB drive (new)
 	- multiple USB sticks
-- **Pick an Environment** for online storage, notes and tasks
+- *Pick an Environment* for online storage, notes and tasks
 	- Microsoft
 	- Google
 
 
-**[Daily Log](https://ch3ck3rs.github.io/Goals/Weekly-Log/log-home.html)
+**[Daily Log](https://ch3ck3rs.github.io/Goals/Weekly-Log/log-home.html)**
 
 ## Refreshers and How Tos ##
 
