@@ -6,14 +6,14 @@ What do I need it to do?
 - take notes cross platform (andriod and windows)
 - sync files
 - make tasks
-- keep calendar 
+- keep calendar
 
 
 Would be nice...
 
 - make calendar / task from email
 - check list on tasks
-- integrate with voice assistant ???? 
+- integrate with voice assistant ????
 
 Contenders
 
@@ -41,3 +41,5 @@ Microsoft To-Do:
 	- seperate To-Dos for personal and school
 	- like ability to put due dates and they will appear on the reminder / due date
 	- Wish I could assign a task between personal and school
+
+**OneDrive** requires purchase plan to keep records offline on mobile device
