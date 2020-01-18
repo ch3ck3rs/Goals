@@ -1,3 +1,7 @@
+---
+mod: 2020-01-17T23:58:07-06:00
+---
+
 # Create Django Portfolio
 
 ---
@@ -21,8 +25,8 @@ Thoughts:
 
 Challenges:
 
-* how to upload markdown? [Use GitHub API?](https://stackoverflow.com/questions/23031406/how-do-i-implement-markdown-in-django-1-6-app)
-
+* how to upload markdown? [Use GitHub API?](https://stackoverflow.com/questions/23031406/how-do-i-implement-markdown-in-django-1-6-app)   -  
+[or maybe this](https://github.com/pioneers/website/wiki/Using-Markdown-To-Write-Blog-Posts) 
 
 ----------
 
