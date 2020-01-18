@@ -1,5 +1,5 @@
 ---
-mod: 2020-01-18T10:12:11-06:00
+mod: 2020-01-18T10:12:38-06:00
 ---
 
 # Create Django Portfolio
@@ -27,6 +27,9 @@ Challenges:
 
 * how to upload markdown? [Use GitHub API?](https://stackoverflow.com/questions/23031406/how-do-i-implement-markdown-in-django-1-6-app)   -  [or maybe this](https://github.com/pioneers/website/wiki/Using-Markdown-To-Write-Blog-Posts) - [ old but promising ](https://www.imzjy.com/blog/2018-05-20-render-the-markdown-in-django) 
 
+
+[theme for blog](https://colorlib.com/wp/template/suppablog/)
+
 ----------
 
 ##### How to achieve goal
@@ -50,5 +53,3 @@ Task * Purpose * Example of Use * Outcome
 [Back to Goals](https://ch3ck3rs.github.io/Goals)
 
 [edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/2020Goals/Professional/Basic-Debian.md)
-
-[theme for blog](https://colorlib.com/wp/template/suppablog/)
