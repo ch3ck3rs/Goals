@@ -1,5 +1,5 @@
 ---
-mod: 2020-01-18T00:13:46-06:00
+mod: 2020-01-18T10:12:11-06:00
 ---
 
 # Create Django Portfolio
@@ -50,3 +50,5 @@ Task * Purpose * Example of Use * Outcome
 [Back to Goals](https://ch3ck3rs.github.io/Goals)
 
 [edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/2020Goals/Professional/Basic-Debian.md)
+
+[theme for blog](https://colorlib.com/wp/template/suppablog/)
