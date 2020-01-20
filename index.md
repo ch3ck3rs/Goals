@@ -6,6 +6,7 @@ Goal Tracker for Professional and Personal Growth Goals
 **Work**
 
 - Complete [standardization](https://ch3ck3rs.github.io/Goals/2020Goals/Professional/PTS-Product_line.html) of the PTS product offering
+- look into [Value Pricing](https://ch3ck3rs.github.io/Goals/2020Goals/Professional/Value-Pricing.html) and inconsistent data
 
 **Career**
 
