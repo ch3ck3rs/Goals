@@ -14,7 +14,7 @@ Why:
 
 Progress:
 
-* 
+* found inconsistencies within the Planned Lead Time of parts
 
 ----------
 
