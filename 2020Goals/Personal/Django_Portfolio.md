@@ -16,16 +16,19 @@ Why:
 
 Progress:
 
-*  Basic Portfolio up and running
+- [x] Basic Portfolio up and running
+- [ ] create API to upload a 'job' to portfolio-project
+
 
 Thoughts:
 
-* would like to be able to continue editing in local txt editor and the push to source?
+
+- ~~would like to be able to continue editing in local txt editor and the push to source?~~ API
 
 
 Challenges:
 
-* how to upload markdown? [Use GitHub API?](https://stackoverflow.com/questions/23031406/how-do-i-implement-markdown-in-django-1-6-app)   -  [or maybe this](https://github.com/pioneers/website/wiki/Using-Markdown-To-Write-Blog-Posts) - [ old but promising ](https://www.imzjy.com/blog/2018-05-20-render-the-markdown-in-django) 
+- [x] how to upload markdown? [Use GitHub API?](https://stackoverflow.com/questions/23031406/how-do-i-implement-markdown-in-django-1-6-app)   -  [or maybe this](https://github.com/pioneers/website/wiki/Using-Markdown-To-Write-Blog-Posts) - [ old but promising ](https://www.imzjy.com/blog/2018-05-20-render-the-markdown-in-django) 
 
 
 [theme for blog](https://colorlib.com/wp/template/suppablog/)

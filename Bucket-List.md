@@ -15,6 +15,7 @@ Goals I would like to achieve but are not yet high priority
 
 - singing twiter bot
 - what are docker and containers
+- What is [Issue Tracking](https://www.jetbrains.com/help/pycharm/2019.1/settings-version-control-issue-navigation.html?utm_campaign=PC&utm_content=2019.1&utm_medium=link&utm_source=product) in PyCharm
 
 **Crafting**
 
