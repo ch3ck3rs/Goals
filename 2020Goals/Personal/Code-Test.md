@@ -1,3 +1,7 @@
+---
+mod: 2020-01-23T07:53:13-06:00
+---
+
 # Code Testing
 
 ---
@@ -34,3 +38,6 @@ Task * Purpose * Example of Use * Outcome
 [Back to Goals](https://ch3ck3rs.github.io/Goals)
 
 [edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/2020Goals/Personal/Code-Test.md)
+
+
+coverage.py [Talk Python to me](https://pca.st/pbytes)
