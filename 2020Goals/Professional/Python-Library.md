@@ -28,7 +28,7 @@ Progress:
 * February
 * March
 * April
-* May
+* May - [tic tac toe](https://github.com/ContinuumIO/tic-tac-toe-challenge)
 * June
 * July
 * August
