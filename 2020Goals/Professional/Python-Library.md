@@ -12,7 +12,7 @@ Why:
 
 Progress:
 
-* 
+- 
 
 ----------
 
@@ -72,4 +72,7 @@ Library * Purpose * Method * Example of Use * Outcome
 ## Libraries to consider ##
 
 - kivy (python GUI)
+- nbconvert (command line converter for jupyter)
+	- see knowledge base [page](https://ch3ck3rs.github.io/knowledge_base/jupyter/nbconvert.md)
+
 
