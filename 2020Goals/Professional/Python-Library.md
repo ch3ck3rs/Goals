@@ -5,18 +5,18 @@
 ### Goal: Learn and use one new Python Library each month
 
 Why:
- 
+
 * to break out of Pandas
 * Python libraries are extremely specialized and designed to do one task very well.  It can be more efficient to use multiple libraries to complete a task than to 'make it work' in one library.
 * More libraries : More possibilities  
 
 Progress:
 
-- 
+-
 
 ----------
 
-##### How to find new and useful Libraries 
+##### How to find new and useful Libraries
 
 *  Listen to 1 Talk Python to me weekly (historical or new)
 * Blog?
@@ -24,7 +24,7 @@ Progress:
 
 ##### Monthly Focus:
 
-* January - Django 
+* January - Django
 * February
 * March
 * April
@@ -41,7 +41,7 @@ Progress:
 
 ---
 
-## Outcome 
+## Outcome
 
 Library * Purpose * Method * Example of Use * Outcome
 
@@ -53,16 +53,16 @@ Library * Purpose * Method * Example of Use * Outcome
 - Purpose: to create and host a personal website
 - Method: Udemy course
 - Example of Use:
-- Outcome: 
+- Outcome:
 
 
 **Month**
 
-- Library: 
-- Purpose: 
-- Method: 
+- Library:
+- Purpose:
+- Method:
 - Example of Use:
-- Outcome: 
+- Outcome:
 
 [Back to Goals](https://ch3ck3rs.github.io/Goals)
 
@@ -74,5 +74,8 @@ Library * Purpose * Method * Example of Use * Outcome
 - kivy (python GUI)
 - nbconvert (command line converter for jupyter)
 	- see knowledge base [page](https://ch3ck3rs.github.io/knowledge_base/jupyter/nbconvert.md)
-
-
+- [medium suggestions](https://medium.com/better-programming/the-22-most-used-python-packages-in-the-world-7020a904b2e)
+  - PyYAML
+  - chardet
+  - jmespath / Simplejson (JSON parser)
+	- [medium sug for data sci](https://medium.com/edureka/python-libraries-for-data-science-and-machine-learning-1c502744f277)
