@@ -1,0 +1,39 @@
+{
+    "title": "Create Django Portfolio",
+    "set_date": 2020-01-01,
+    "target_date": 2020-04-31,
+    "image": null,
+    "tldr": "Create a website to log my first year working remote.  What are my goals, weekly accomplishments and thoughts worth blogging about.",
+    "body": "
+        ### Goal: Create Django Portfolio to replace the use of GitHub Pages for goals and weekly log
+
+        Why:
+
+        *  links are manual and suck
+        *  Not easy to do blog and goals and log
+
+        Progress:
+
+        - [x] Basic Portfolio up and running
+        - [x] create API to upload a 'job' to portfolio-project
+        - [ ] host on digital ocean
+        - [ ] Map out Goals in Life-Project
+
+    ",
+    "wip": "
+        * Goals App
+          - What Fields to record?
+          - Does the theme fit my goals without major modification?
+        * Flow through site
+          - Home - what is most important? Goals? Blog? wkl log?
+          - What happens when you click on a category?
+    ",
+    "progress": "
+      ~~Uploading info through admin site will NOT happen.  How to do git push like operation?~~ This is called an API
+
+      How to get markdown rendering to show on html page?
+      [ simple blog to add markdown flavor ](https://www.imzjy.com/blog/2018-05-20-render-the-markdown-in-django)
+       - maybe should consider github api once the site is hosted
+    ",
+    "finished_date": null
+}
