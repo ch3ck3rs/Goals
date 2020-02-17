@@ -79,3 +79,4 @@ Library * Purpose * Method * Example of Use * Outcome
   - chardet
   - jmespath / Simplejson (JSON parser)
 	- [medium sug for data sci](https://medium.com/edureka/python-libraries-for-data-science-and-machine-learning-1c502744f277)
+- matplotlib / seaborn
