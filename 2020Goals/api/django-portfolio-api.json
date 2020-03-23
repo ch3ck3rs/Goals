@@ -1,39 +1,64 @@
 {
-    "title": "Create Django Portfolio",
-    "set_date": 2020-01-01,
-    "target_date": 2020-04-31,
-    "image": @file:////home/lauren/Pictures/003-goal.png,
-    "tldr": "Create a website to log my first year working remote.  What are my goals, weekly accomplishments and thoughts worth blogging about.",
-    "body": "
-        ### Goal: Create Django Portfolio to replace the use of GitHub Pages for goals and weekly log
+  "url":"http://localhost:8000/goals-api/12/",
+  "image": "/home/lauren/Pictures/whoop.jpg",
+  "payload":{
+        "title": "Create Django Portfolio",
+        "set_date": "2020-01-01",
+        "target_date": "2020-04-30",
+        "tldr": "Create a website to log my first year working remote.  What are my goals, weekly accomplishments and thoughts worth blogging about.",
+        "wip": "* Goals App
+
+              - [x] ~~What Fields to record?~~ fields updated
+              - [x] Does the theme fit my goals without major modification? - well enough for now
+              - [ ] enable catagories (see below)
+              - [x] on `all_goals`
+                - [x] enable tl:dr < enabled for featured blog
+                - [x] enable hilight featured item < goals sorted by target date, first goal is called out as featured
+
+            * Categories
+
+            - [x] Create Categories
+            - [x] Display Categories under Goal in html
+            - [ ] Display Categories pretty in HTML
+            - [ ] Create Hpyerlink Category labels
+
+            * Flow through site
+
+              - Home - what is most important? Goals? Blog? wkl log?
+              - What happens when you click on a category?
+        ",
+        "progress": "* Goals App
+
+        Categories
+
+        - created categories and am able to display them in list format
+        - updated index.html and markdown_single.html to show category list
+
+
+        ~~Uploading info through admin site will NOT happen.  How to do git push like operation?~~
+
+        - This is called an API
+        - POST and PUT scripts have been made along with Goal templates to facilitate the cmd line operation
+
+
+          How to get markdown rendering to show on html page?
+          [ simple blog to add markdown flavor ](https://www.imzjy.com/blog/2018-05-20-render-the-markdown-in-django)
+           - maybe should consider github api once the site is hosted
+        ",
+        "body": "Goal: Create Django Portfolio to replace the use of GitHub Pages for goals and weekly log
 
         Why:
-
         *  links are manual and suck
         *  Not easy to do blog and goals and log
 
-        Progress:
+        Mile Stones:
 
         - [x] Basic Portfolio up and running
-        - [x] create API to upload a 'job' to portfolio-project
+        - [x] create API to create and update a job to portfolio-project
         - [ ] host on digital ocean
         - [ ] Map out Goals in Life-Project
 
-    ",
-    "wip": "
-        * Goals App
-          - What Fields to record?
-          - Does the theme fit my goals without major modification?
-        * Flow through site
-          - Home - what is most important? Goals? Blog? wkl log?
-          - What happens when you click on a category?
-    ",
-    "progress": "
-      ~~Uploading info through admin site will NOT happen.  How to do git push like operation?~~ This is called an API
-
-      How to get markdown rendering to show on html page?
-      [ simple blog to add markdown flavor ](https://www.imzjy.com/blog/2018-05-20-render-the-markdown-in-django)
-       - maybe should consider github api once the site is hosted
-    ",
-    "finished_date": null
+        ",
+        "finished_date": null
+      }
 }

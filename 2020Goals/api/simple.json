@@ -1,0 +1,13 @@
+{
+  "url":"http://localhost:8000/goals-api/",
+  "image": "/home/lauren/Pictures/003-goal.png",
+  "payload":{
+        "title": "Portfolio python file",
+        "set_date": "2020-01-01",
+        "target_date": "2020-04-30",
+        "tldr": "Create a website to log my first year working remote.  What are my goals, weekly accomplishments and thoughts worth blogging about.",
+        "body": "Goal: Create Django Portfolio to replace the use of GitHub Pages for goals and weekly log",
+        "progress": "Goals App  ~~Uploading info through admin site will NOT happen.  How to do git push like operation?~~ This is called an API",
+        "finished_date": null
+    }
+}

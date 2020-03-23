@@ -1,0 +1,6 @@
+{
+  "title":"testing postman",
+  "set_date":"2020-03-01",
+  "target_date":"2020-04-15",
+  "image":"http://localhost:8000/media/goals/003-goal.png",
+  "tldr":"tldr","body":"body field","wip":"trying to upload via postman","progress":"progress to date","finished_date":null}
