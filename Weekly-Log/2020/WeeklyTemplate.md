@@ -5,13 +5,13 @@ April 6th - 12th, 2020
 
 **Work**
 
-- [ ] diverter kits parts created
-- [ ] sunopta
+- [ ] 
+- [ ] 
 
 **Personal**
 
-- [ ] Finals
-- [ ] unpack the house
+- [ ] 
+- [ ] 
 
 
 ## Notes
@@ -20,22 +20,12 @@ April 6th - 12th, 2020
 
 **W**
 
-- created kits for Ginny
-- caugut up with Dawn
-- reviewed goals with Bhirav and set up python
-
 **P**
-
-- hw 9 for Business Env of Computing
 
 #### Tue -  ####
 
 **W**
 
-- confirmed pH/ORP kits parts in the system, still need to confirm OLA part order
-- thoughts to brenden on where/how kits should be called out on standard drawings.  This will need more conversation
-- changed workday address and filled out new withholding form
-- definition of work for as-built drawings
 
 **P**
 
