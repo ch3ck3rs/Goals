@@ -21,7 +21,18 @@ Progress:
 
 ##### Monthly Focus:
 
-* 
+* January 
+* February
+* March
+* April
+* May
+* June
+* July
+* August
+* September
+* October
+* November
+* December
 
 ---
 
@@ -31,4 +42,4 @@ Task * Purpose * Example of Use * Outcome
 
 [Back to Goals](https://ch3ck3rs.github.io/Goals)
 
-[edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/2020Goals/Professional/Basic-Debian.md)
+[edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/Yearly-Goals/2021Goals/Basic-Debian.md)

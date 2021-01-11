@@ -1,51 +1,45 @@
 # 2021 Goals
 TAKE RISKS! If you win, you will be happy.  If you loose, you will be wise.
 
-## In My Profession ##
+## Major GOALS ##
 
 **Work**
 - Single request to CDS for engineering group
 
 
 **Career**
-
+- Network within CDS and determine what I would like to do next
+- Continue Industry Awareness
 
 
 **Home**
+- Puppy Training / Re-Training Lil Bit
 
 
-## In Private ##
+**Coding / Computing**
+- [Python Library](https://ch3ck3rs.github.io/Goals/Yearly-Goals/2020Goals/Professional/Python-Library.html)
 
-**Coding**
+- [Basic Debian](https://ch3ck3rs.github.io/Goals/Yearly-Goals/2020Goals/Professional/Basic-Debian.html)
 
-
+- [Caffeine Tracker](https://ch3ck3rs.github.io/Goals/Yearly-Goals/2020Goals/Professional/Garmin-App.html)
 
 **Crafting**
 
 - [ ] Embroidery work for Angela
 - [ ] 2 Hats for PyCon
-- [ ] Hat for Dad (36 st each needle)
+- [ ] Hat for Dad (36 st each needle) (3 needles or 4?)
 
 **Personal**
 
 - [ ] merge all passwords into keepass
-- [ ] merge all online storage
-	- dropbox
-	- onedrive
-	- google drive
-- [ ] merge all physical storage and make back up
-	- 250 GB drive
-	- 1 TB drive (old)
-	- 1 TB drive (new)
-	- multiple USB sticks
-- [ ] *Pick an Environment* for online storage, notes and tasks
-	- Microsoft
-	- Google
+- [ ] create a [Single Environment]((https://ch3ck3rs.github.io/Goals/Yearly-Goals/2021Goals/Single-Electronic-Environment.html)
 
 
 **[Daily Log](https://ch3ck3rs.github.io/Goals/Weekly-Log/log-home.html)**
 
 **[Previous Years Goals](https://ch3ck3rs.github.io/Goals/Archive)**
+
+**[BLOG](https://ch3ck3rs.github.io/Goals/Blog)**
 
 ## Refreshers and How Tos ##
 
