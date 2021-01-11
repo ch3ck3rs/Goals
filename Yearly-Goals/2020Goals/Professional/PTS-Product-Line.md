@@ -37,6 +37,6 @@ Task * Purpose * Example of Use * Outcome
 - by 1/16 we are to have the entire USP line green
 - by EOM we will have USP and LI Filter's green
 
-[Back to Goals](https://ch3ck3rs.github.io/Goals)
+[Back to Goals](https://ch3ck3rs.github.io/Goals/Yearly-Goals/2020Goals/2020-Goals_index.html)
 
-[edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/2020Goals/Professional/Basic-Debian.md)
+[edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/Yearly-Goals2020Goals/Professional/Basic-Debian.md)

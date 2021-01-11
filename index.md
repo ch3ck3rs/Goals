@@ -1,32 +1,24 @@
-# 2020 Goals
-Goal Tracker for Professional and Personal Growth Goals
+# 2021 Goals
+TAKE RISKS! If you win, you will be happy.  If you loose, you will be wise.
 
 ## In My Profession ##
 
 **Work**
+- Single request to CDS for engineering group
 
-- Complete [standardization](https://ch3ck3rs.github.io/Goals/2020Goals/Professional/PTS-Product_line.html) of the PTS product offering
-- look into [Value Pricing](https://ch3ck3rs.github.io/Goals/2020Goals/Professional/Value-Pricing.html) and inconsistent data
 
 **Career**
 
- - Increase [Python Library Knowledge](https://ch3ck3rs.github.io/Goals/2020Goals/Professional/Python-Library.html)
-- Stay abreast of [Industry Trends](https://ch3ck3rs.github.io/Goals/2020Goals/Professional/Industry-Awareness.html)
-- CODE development with Katie
+
 
 **Home**
-
-- Gain a basic understanding of [Debian Desktop and Server](https://ch3ck3rs.github.io/Goals/2020Goals/Professional/Basic-Debian.html)
-- Maintain A average in MS Courses
 
 
 ## In Private ##
 
 **Coding**
 
-- Develop [caffeine tracker](https://ch3ck3rs.github.io/Goals/2020Goals/Personal/Garmin-App.html) app for Garmin watch
-- [PyCon 2020](https://ch3ck3rs.github.io/Goals/2020Goals/Personal/PyCon-2020.html) with Katie
-- Learn how to [Test code](https://ch3ck3rs.github.io/Goals/2020Goals/Personal/Code-Test.html)
+
 
 **Crafting**
 
@@ -36,23 +28,24 @@ Goal Tracker for Professional and Personal Growth Goals
 
 **Personal**
 
-- use [Daylio](https://ch3ck3rs.github.io/Goals/2020Goals/Personal/Daylio.html) every day
-- merge all passwords into keepass
-- merge all online storage
+- [ ] merge all passwords into keepass
+- [ ] merge all online storage
 	- dropbox
 	- onedrive
 	- google drive
-- merge all physical storage and make back up
+- [ ] merge all physical storage and make back up
 	- 250 GB drive
 	- 1 TB drive (old)
 	- 1 TB drive (new)
 	- multiple USB sticks
-- *Pick an Environment* for online storage, notes and tasks
+- [ ] *Pick an Environment* for online storage, notes and tasks
 	- Microsoft
 	- Google
 
 
 **[Daily Log](https://ch3ck3rs.github.io/Goals/Weekly-Log/log-home.html)**
+
+**[Previous Years Goals](https://ch3ck3rs.github.io/Goals/Archive)**
 
 ## Refreshers and How Tos ##
 

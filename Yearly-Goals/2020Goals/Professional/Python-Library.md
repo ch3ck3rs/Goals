@@ -80,3 +80,9 @@ Library * Purpose * Method * Example of Use * Outcome
   - jmespath / Simplejson (JSON parser)
 	- [medium sug for data sci](https://medium.com/edureka/python-libraries-for-data-science-and-machine-learning-1c502744f277)
 - matplotlib / seaborn
+
+
+
+[Back to Goals](https://ch3ck3rs.github.io/Goals/Yearly-Goals/2020Goals/2020-Goals_index.html)
+
+[edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/Yearly-Goals2020Goals/Professional/Python-Library.md)

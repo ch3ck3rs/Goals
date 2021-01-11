@@ -9,6 +9,7 @@ What do I need it to do?
 - keep calendar
 
 
+
 Would be nice...
 
 - make calendar / task from email
@@ -43,3 +44,9 @@ Microsoft To-Do:
 	- Wish I could assign a task between personal and school
 
 **OneDrive** requires purchase plan to keep records offline on mobile device
+
+
+[Back to Goals](https://ch3ck3rs.github.io/Goals)
+
+
+[edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/Yearly-Goals/2020Goals/Personal/Single-Environment.md)

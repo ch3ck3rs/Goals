@@ -57,6 +57,6 @@ Task * Purpose * Example of Use * Outcome
 - closest app is a water logger, but does not connect with connect water logger
 - **Garmin SDK** - Watched Intro Video - sdk has plugin for eclipse IDE which includes templates and emulators
 
-[Back to Goals](https://ch3ck3rs.github.io/Goals)
+[Back to Goals](https://ch3ck3rs.github.io/Goals/Yearly-Goals/2020Goals/2020-Goals_index.html)
 
-[edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/2020Goals/Personal/Garmin-App.md)
+[edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/Yearly-Goals/2020Goals/Personal/Garmin-App.md)
