@@ -16,6 +16,8 @@ Jan 4th - 10th, 2021
 
 ## Notes
 
+
+
 #### Mon -  ####
 
 **W**
@@ -57,3 +59,10 @@ Jan 4th - 10th, 2021
 
 
 [Home Page](https://ch3ck3rs.github.io/Goals)
+
+### Legend
+
+- [ ] 			unfinished goal
+- [x] 			finished goal
+- [ ] >> 		moved / pushed to another day
+- [ ] ~~goal~~	deleted goal
