@@ -4,7 +4,11 @@ TAKE RISKS! If you win, you will be happy.  If you loose, you will be wise.
 ## Major GOALS ##
 
 **Work**
-- Single request to CDS for engineering group
+- Digital Acumen Training for GEI (One Drive collaboration and version controll, something from GCOP)
+- Talent Management - empower team to 
+- Digital MO - make a measurable impact on MO
+- Support Digital Strategy - Global Communications 
+
 
 
 **Career**
